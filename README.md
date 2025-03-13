@@ -1,7 +1,7 @@
 <div align='center'><h1> Hi, I am Vladyslav Chonrii👋</h1></div>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&width=435&lines=Explore+JS+world+with+me!)](https://git.io/typing-svg)
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Explore+JS+world+with+me!" alt="Fun Facts" /> 
 </div>
 
 <div align="center">
