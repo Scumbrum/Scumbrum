@@ -4,16 +4,23 @@
 <a href="https://www.linkedin.com/in/vlad-chorniy/" target="_blank" rel="nofollow"><img align="right" alt="Vlad's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<img src='./assets/WorkWorking.gif' align='left' width="45%" height="250px">
+<img src='./assets/WorkWorking.gif' align='left' width="45%" height="270px">
 
 ### About me
-- :school: I'm <a href="https://github.com/Scumbrum">Vladyslav Chornii</a>, graduated from <a href="https://kpi.ua/">KPI(Kyiv Polytechnic Institute)</a>
-- 🔭 I’m currently working on  <b>Full stack development</b>
-- 👩🏼‍💻 Trying to be <b>engineer</b>, not just <b>coder</b>
-- 🌱 I’m currently Working with data visualising,<b>Angular, VanillaJS</b>
-- 💬 Ask me about anything, I am happy to help<
-- 😄 Pronouns: <b>Engineer, Leader</b> and <b>Perfectionist</b>
-- 🤓 I regulary improving my skills in other areas: <b>ML, DevOps, Embedded</b>
+:school: I'm <a href="https://github.com/Scumbrum">Vladyslav Chornii</a>, graduated from <a href="https://kpi.ua/">KPI(Kyiv Polytechnic Institute)</a>
+<br />
+🔭 I’m currently working on  <b>Full stack development</b>
+<br />
+👩🏼‍💻 Trying to be <b>engineer</b>, not just <b>coder</b>
+<br />
+🌱 I’m currently Working with data visualising,<b>Angular, VanillaJS</b>
+<br />
+💬 Ask me about anything, I am happy to help
+<br />
+😄 Pronouns: <b>Engineer, Leader</b> and <b>Perfectionist</b>
+<br />
+🤓 I regulary improving my skills in other areas: <b>ML, DevOps, Embedded</b>
+<br />
 
 <br />
 
