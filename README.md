@@ -1,25 +1,19 @@
 <div align='center'><h1> Hi, I am Vladyslav Chornii👋</h1></div>
-<hr/>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vlad-chorniy/" target="_blank" rel="nofollow"><img align="right" alt="Vlad's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<div style="display: flex;gap:5px">
-    <img src='./assets/WorkWorking.gif' align='left' width="50%" height="250px">
-    <div>
-    <h2 style="margin-top: -20px">About me</h2>
-        <ul style="margin-top: 0;">
-            <li>:school: I'm <a href="https://github.com/Scumbrum">Vladyslav Chornii</a>, graduated from <a href="https://kpi.ua/">KPI(Kyiv Polytechnic Institute)</a></li>
-            <li>🔭 I’m currently working on  <b>Full stack development</b></li>
-            <li>👩🏼‍💻 Trying to be <b>engineer</b>, not just <b>coder</b></li>
-            <li>🌱 I’m currently Working with data visualising,<b>Angular, VanillaJS</b></li>
-            <li>💬 Ask me about anything, I am happy to help</li>
-            <li>😄 Pronouns: <b>Engineer, Leader</b> and <b>Perfectionist</b></li>
-            <li>🤓 I regulary improving my skills in other areas: <b>ML, DevOps, Embedded</b></li>
-        </ul>
-    </div>
-</div>
+<img src='./assets/WorkWorking.gif' align='left' width="45%" height="250px">
+
+### About me
+- :school: I'm <a href="https://github.com/Scumbrum">Vladyslav Chornii</a>, graduated from <a href="https://kpi.ua/">KPI(Kyiv Polytechnic Institute)</a>
+- 🔭 I’m currently working on  <b>Full stack development</b>
+- 👩🏼‍💻 Trying to be <b>engineer</b>, not just <b>coder</b>
+- 🌱 I’m currently Working with data visualising,<b>Angular, VanillaJS</b>
+- 💬 Ask me about anything, I am happy to help<
+- 😄 Pronouns: <b>Engineer, Leader</b> and <b>Perfectionist</b>
+- 🤓 I regulary improving my skills in other areas: <b>ML, DevOps, Embedded</b>
 
 <br />
 
